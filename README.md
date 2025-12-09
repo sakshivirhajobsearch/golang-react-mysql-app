@@ -22,22 +22,22 @@ A fully customized architectural diagram has been generated for this project.
 ## 🛠 Technologies Used
 
 ### **Languages**
-None
+javascript
 
 ### **Frameworks**
-None
+react
 
 ### **Machine Learning / AI Stack**
 None
 
 ### **Database Layer**
-None
+mysql
 
 ### **Cloud Providers / Services**
 None
 
 ### **DevOps / CI/CD**
-None
+docker
 
 ### **Pipeline Components**
 None
@@ -62,7 +62,7 @@ All files are saved under the project's **diagram/** directory.
 ---
 
 ## 📦 Source Code Analysis
-- Total scanned files: **0**
+- Total scanned files: **11**
 - Analysis is based on deep source code scanning (not metadata).
 
 ---
