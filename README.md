@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** CSS, Go, HTML, JavaScript, MySQL, React
+- **Detected Technologies:** Node.js / JavaScript / TypeScript, Go, React, MySQL, Kubernetes / K8s
 - **GitHub Topics:** None
 
 ---
